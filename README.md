@@ -9,6 +9,7 @@
 |---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | Covid - 19 Project                          | [Link](https://github.com/PrabuG-github/Machine-Learning-Projects/tree/main/Covid-19%20Project)                                      |
 | Walmart Project                             | [Link](https://github.com/PrabuG-github/Machine-Learning-Projects/tree/main/WalMart%20Project)                                       |
+| Heart Disease                               | [Link](https://github.com/PrabuG-github/Machine-Learning-Projects/tree/main/Heart%20Disease)                                       |
 
 
 
